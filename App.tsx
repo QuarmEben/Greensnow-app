@@ -18,7 +18,7 @@ import { Notifications } from './app/(tabs)/Notifications';
 import { NotificationsEmpty } from './app/(tabs)/NotificationsEmpty';
 
 export default function App() {
-  return <NotificationsEmpty />
+  return <Home />
 }
 
 

@@ -139,3 +139,8 @@ export interface StatItemProps {
     title: string;
     penalties: PenaltyProps[];
   }
+
+  export interface LanguageDropdownProps {
+    language: string;
+    flagIcon: any;
+  }
